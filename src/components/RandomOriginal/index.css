@@ -1,0 +1,41 @@
+.background-image {
+  background-size: cover;
+  height: 100vh;
+}
+
+.heading {
+  color: white;
+}
+
+.random-original {
+  display: flex;
+  flex-direction: column;
+  justify-content: flex-start;
+  align-items: flex-start;
+  padding: 15px;
+  margin-left: 20px;
+}
+
+.title-movie {
+  color: white;
+  font-size: 45px;
+  font-family: 'HK Grotesk';
+  font-weight: 400;
+}
+
+.overview {
+  color: white;
+  font-size: 18px;
+  font-family: 'HK Grotesk';
+  font-weight: 400;
+}
+
+.button-type {
+  width: 100px;
+  height: 40px;
+  background-color: white;
+  color: #171f46;
+  border-radius: 8px;
+  border-style: solid;
+  border-width: 0px;
+}

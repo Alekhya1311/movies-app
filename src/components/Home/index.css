@@ -1,0 +1,8 @@
+.home-sections {
+  display: flex;
+  flex-direction: column;
+  margin: auto;
+  width: 90%;
+  max-width: 1110px;
+  background-color: #131313;
+}

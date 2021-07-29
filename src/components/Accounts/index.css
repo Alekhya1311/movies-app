@@ -1,0 +1,13 @@
+.account-container {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  height: 70vh;
+}
+.logout-desktop-btn {
+  width: 80px;
+  height: 40px;
+  background-color: red;
+  color: white;
+}

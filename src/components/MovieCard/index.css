@@ -1,0 +1,11 @@
+.movie-card {
+  display: flex;
+  justify-content: space-around;
+  align-items: center;
+}
+
+.movie-logo {
+  width: 200px;
+
+  margin-right: 10px;
+}
